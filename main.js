@@ -187,4 +187,4 @@ const string = `
     transform: rotateY(-360deg);
     transform-origin: 0 0;
 }`;
-
+export default string;
