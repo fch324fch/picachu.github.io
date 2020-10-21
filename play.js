@@ -1,3 +1,4 @@
+import string from './main.js';
 const player = {
     id: undefined,
     time: 150,
